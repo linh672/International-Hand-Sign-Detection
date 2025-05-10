@@ -2,7 +2,7 @@
 
 A real-time hand sign recognition system using a webcam, OpenCV, and a deep learning model trained to recognize international hand sign letters (A–Z and space).
 
-![Sign Language Chart](assets\sign_language_chart.jpg)
+![Sign Language Chart](assets/sign_language_chart.jpg)
 
 ---
 
